@@ -1,4 +1,4 @@
-# Learn-Laravel-Today
+# Learn-PHP-Today
 My Journey Learning PHP and Laravel
 
 
