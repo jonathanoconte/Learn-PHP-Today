@@ -1,0 +1,9 @@
+The var_dump() function returns the data type and the value;
+$x = 5;
+var_dump($x);
+
+variable scope:
+global is outside the function. cant use or call inside a function.
+local is inside the funtion only can use or call outside functon.
+
+global keyword used to access a global variable from within a function
